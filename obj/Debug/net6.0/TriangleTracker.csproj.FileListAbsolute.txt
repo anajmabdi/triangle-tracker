@@ -1,0 +1,15 @@
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net6.0/TriangleTracker.deps.json
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net6.0/TriangleTracker.dll
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net6.0/TriangleTracker.pdb
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.csproj.AssemblyReference.cache
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.AssemblyInfoInputs.cache
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.AssemblyInfo.cs
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.csproj.CoreCompileInputs.cache
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.dll
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/refint/TriangleTracker.dll
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.pdb
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/ref/TriangleTracker.dll
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net6.0/TriangleTracker
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net6.0/TriangleTracker.runtimeconfig.json
+/Users/gracelee/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.genruntimeconfig.cache
